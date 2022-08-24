@@ -1,0 +1,17 @@
+{
+  "name": "hardhat",
+  "version": "1.0.0",
+  "description": "hardhat tutorial project of Core",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "chai": "^4.3.6",
+    "hardhat": "^2.10.1"
+  }
+}
